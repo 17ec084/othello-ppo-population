@@ -1,0 +1,620 @@
+{
+  "status": "stopped",
+  "step": 4085,
+  "elapsed_seconds": 126173.77,
+  "training_games": 9934720,
+  "learner_steps": [
+    241,
+    136,
+    245,
+    164,
+    188,
+    180,
+    212,
+    243,
+    171,
+    139,
+    189,
+    50,
+    187,
+    168,
+    230,
+    155,
+    216,
+    239,
+    163,
+    221
+  ],
+  "evaluation": {
+    "step": 4085,
+    "individuals": [
+      {
+        "id": 0,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 120,
+          "draws": 0,
+          "losses": 8,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 21.5703125
+        },
+        "position": {
+          "wins": 113,
+          "draws": 1,
+          "losses": 14,
+          "games": 128,
+          "win_rate": 0.8828125,
+          "mean_margin_diagnostic_only": 20.15625
+        },
+        "initial": {
+          "wins": 120,
+          "draws": 3,
+          "losses": 5,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 23.15625
+        }
+      },
+      {
+        "id": 1,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 122,
+          "draws": 0,
+          "losses": 6,
+          "games": 128,
+          "win_rate": 0.953125,
+          "mean_margin_diagnostic_only": 23.265625
+        },
+        "position": {
+          "wins": 106,
+          "draws": 5,
+          "losses": 17,
+          "games": 128,
+          "win_rate": 0.828125,
+          "mean_margin_diagnostic_only": 16.0703125
+        },
+        "initial": {
+          "wins": 122,
+          "draws": 1,
+          "losses": 5,
+          "games": 128,
+          "win_rate": 0.953125,
+          "mean_margin_diagnostic_only": 23.5234375
+        }
+      },
+      {
+        "id": 2,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 119,
+          "draws": 1,
+          "losses": 8,
+          "games": 128,
+          "win_rate": 0.9296875,
+          "mean_margin_diagnostic_only": 21.5078125
+        },
+        "position": {
+          "wins": 109,
+          "draws": 2,
+          "losses": 17,
+          "games": 128,
+          "win_rate": 0.8515625,
+          "mean_margin_diagnostic_only": 18.125
+        },
+        "initial": {
+          "wins": 116,
+          "draws": 6,
+          "losses": 6,
+          "games": 128,
+          "win_rate": 0.90625,
+          "mean_margin_diagnostic_only": 21.9140625
+        }
+      },
+      {
+        "id": 3,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 116,
+          "draws": 3,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.90625,
+          "mean_margin_diagnostic_only": 19.8125
+        },
+        "position": {
+          "wins": 99,
+          "draws": 1,
+          "losses": 28,
+          "games": 128,
+          "win_rate": 0.7734375,
+          "mean_margin_diagnostic_only": 13.375
+        },
+        "initial": {
+          "wins": 122,
+          "draws": 3,
+          "losses": 3,
+          "games": 128,
+          "win_rate": 0.953125,
+          "mean_margin_diagnostic_only": 22.9765625
+        }
+      },
+      {
+        "id": 4,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 125,
+          "draws": 2,
+          "losses": 1,
+          "games": 128,
+          "win_rate": 0.9765625,
+          "mean_margin_diagnostic_only": 24.3125
+        },
+        "position": {
+          "wins": 108,
+          "draws": 3,
+          "losses": 17,
+          "games": 128,
+          "win_rate": 0.84375,
+          "mean_margin_diagnostic_only": 17.1328125
+        },
+        "initial": {
+          "wins": 118,
+          "draws": 1,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.921875,
+          "mean_margin_diagnostic_only": 22.65625
+        }
+      },
+      {
+        "id": 5,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 121,
+          "draws": 0,
+          "losses": 7,
+          "games": 128,
+          "win_rate": 0.9453125,
+          "mean_margin_diagnostic_only": 23.875
+        },
+        "position": {
+          "wins": 102,
+          "draws": 2,
+          "losses": 24,
+          "games": 128,
+          "win_rate": 0.796875,
+          "mean_margin_diagnostic_only": 14.703125
+        },
+        "initial": {
+          "wins": 121,
+          "draws": 1,
+          "losses": 6,
+          "games": 128,
+          "win_rate": 0.9453125,
+          "mean_margin_diagnostic_only": 22.9765625
+        }
+      },
+      {
+        "id": 6,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 116,
+          "draws": 2,
+          "losses": 10,
+          "games": 128,
+          "win_rate": 0.90625,
+          "mean_margin_diagnostic_only": 20.8046875
+        },
+        "position": {
+          "wins": 111,
+          "draws": 0,
+          "losses": 17,
+          "games": 128,
+          "win_rate": 0.8671875,
+          "mean_margin_diagnostic_only": 20.2578125
+        },
+        "initial": {
+          "wins": 116,
+          "draws": 3,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.90625,
+          "mean_margin_diagnostic_only": 20.03125
+        }
+      },
+      {
+        "id": 7,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 120,
+          "draws": 0,
+          "losses": 8,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 21.9921875
+        },
+        "position": {
+          "wins": 107,
+          "draws": 2,
+          "losses": 19,
+          "games": 128,
+          "win_rate": 0.8359375,
+          "mean_margin_diagnostic_only": 17.984375
+        },
+        "initial": {
+          "wins": 116,
+          "draws": 0,
+          "losses": 12,
+          "games": 128,
+          "win_rate": 0.90625,
+          "mean_margin_diagnostic_only": 21.109375
+        }
+      },
+      {
+        "id": 8,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 117,
+          "draws": 2,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.9140625,
+          "mean_margin_diagnostic_only": 21.671875
+        },
+        "position": {
+          "wins": 107,
+          "draws": 3,
+          "losses": 18,
+          "games": 128,
+          "win_rate": 0.8359375,
+          "mean_margin_diagnostic_only": 16.9375
+        },
+        "initial": {
+          "wins": 125,
+          "draws": 0,
+          "losses": 3,
+          "games": 128,
+          "win_rate": 0.9765625,
+          "mean_margin_diagnostic_only": 24.84375
+        }
+      },
+      {
+        "id": 9,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 117,
+          "draws": 4,
+          "losses": 7,
+          "games": 128,
+          "win_rate": 0.9140625,
+          "mean_margin_diagnostic_only": 21.796875
+        },
+        "position": {
+          "wins": 100,
+          "draws": 2,
+          "losses": 26,
+          "games": 128,
+          "win_rate": 0.78125,
+          "mean_margin_diagnostic_only": 12.859375
+        },
+        "initial": {
+          "wins": 114,
+          "draws": 3,
+          "losses": 11,
+          "games": 128,
+          "win_rate": 0.890625,
+          "mean_margin_diagnostic_only": 18.484375
+        }
+      },
+      {
+        "id": 10,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 117,
+          "draws": 1,
+          "losses": 10,
+          "games": 128,
+          "win_rate": 0.9140625,
+          "mean_margin_diagnostic_only": 22.828125
+        },
+        "position": {
+          "wins": 102,
+          "draws": 3,
+          "losses": 23,
+          "games": 128,
+          "win_rate": 0.796875,
+          "mean_margin_diagnostic_only": 15.859375
+        },
+        "initial": {
+          "wins": 119,
+          "draws": 5,
+          "losses": 4,
+          "games": 128,
+          "win_rate": 0.9296875,
+          "mean_margin_diagnostic_only": 21.40625
+        }
+      },
+      {
+        "id": 11,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 120,
+          "draws": 3,
+          "losses": 5,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 21.21875
+        },
+        "position": {
+          "wins": 73,
+          "draws": 2,
+          "losses": 53,
+          "games": 128,
+          "win_rate": 0.5703125,
+          "mean_margin_diagnostic_only": 3.25
+        },
+        "initial": {
+          "wins": 114,
+          "draws": 3,
+          "losses": 11,
+          "games": 128,
+          "win_rate": 0.890625,
+          "mean_margin_diagnostic_only": 18.375
+        }
+      },
+      {
+        "id": 12,
+        "evaluated_step": 4085,
+        "random": {
+          "wins": 121,
+          "draws": 1,
+          "losses": 6,
+          "games": 128,
+          "win_rate": 0.9453125,
+          "mean_margin_diagnostic_only": 23.7265625
+        },
+        "position": {
+          "wins": 100,
+          "draws": 2,
+          "losses": 26,
+          "games": 128,
+          "win_rate": 0.78125,
+          "mean_margin_diagnostic_only": 14.8671875
+        },
+        "initial": {
+          "wins": 120,
+          "draws": 1,
+          "losses": 7,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 22.171875
+        }
+      },
+      {
+        "id": 13,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 120,
+          "draws": 2,
+          "losses": 6,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 25.1796875
+        },
+        "position": {
+          "wins": 107,
+          "draws": 3,
+          "losses": 18,
+          "games": 128,
+          "win_rate": 0.8359375,
+          "mean_margin_diagnostic_only": 19.0390625
+        },
+        "initial": {
+          "wins": 122,
+          "draws": 1,
+          "losses": 5,
+          "games": 128,
+          "win_rate": 0.953125,
+          "mean_margin_diagnostic_only": 26.1328125
+        }
+      },
+      {
+        "id": 14,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 123,
+          "draws": 2,
+          "losses": 3,
+          "games": 128,
+          "win_rate": 0.9609375,
+          "mean_margin_diagnostic_only": 24.140625
+        },
+        "position": {
+          "wins": 110,
+          "draws": 3,
+          "losses": 15,
+          "games": 128,
+          "win_rate": 0.859375,
+          "mean_margin_diagnostic_only": 18.0625
+        },
+        "initial": {
+          "wins": 120,
+          "draws": 1,
+          "losses": 7,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 22.984375
+        }
+      },
+      {
+        "id": 15,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 118,
+          "draws": 1,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.921875,
+          "mean_margin_diagnostic_only": 23.6640625
+        },
+        "position": {
+          "wins": 97,
+          "draws": 5,
+          "losses": 26,
+          "games": 128,
+          "win_rate": 0.7578125,
+          "mean_margin_diagnostic_only": 14.6328125
+        },
+        "initial": {
+          "wins": 106,
+          "draws": 6,
+          "losses": 16,
+          "games": 128,
+          "win_rate": 0.828125,
+          "mean_margin_diagnostic_only": 19.4453125
+        }
+      },
+      {
+        "id": 16,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 124,
+          "draws": 2,
+          "losses": 2,
+          "games": 128,
+          "win_rate": 0.96875,
+          "mean_margin_diagnostic_only": 23.609375
+        },
+        "position": {
+          "wins": 103,
+          "draws": 3,
+          "losses": 22,
+          "games": 128,
+          "win_rate": 0.8046875,
+          "mean_margin_diagnostic_only": 16.4453125
+        },
+        "initial": {
+          "wins": 115,
+          "draws": 4,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.8984375,
+          "mean_margin_diagnostic_only": 22.2109375
+        }
+      },
+      {
+        "id": 17,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 118,
+          "draws": 2,
+          "losses": 8,
+          "games": 128,
+          "win_rate": 0.921875,
+          "mean_margin_diagnostic_only": 21.8515625
+        },
+        "position": {
+          "wins": 102,
+          "draws": 4,
+          "losses": 22,
+          "games": 128,
+          "win_rate": 0.796875,
+          "mean_margin_diagnostic_only": 15.078125
+        },
+        "initial": {
+          "wins": 120,
+          "draws": 1,
+          "losses": 7,
+          "games": 128,
+          "win_rate": 0.9375,
+          "mean_margin_diagnostic_only": 22.6328125
+        }
+      },
+      {
+        "id": 18,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 117,
+          "draws": 0,
+          "losses": 11,
+          "games": 128,
+          "win_rate": 0.9140625,
+          "mean_margin_diagnostic_only": 20.3125
+        },
+        "position": {
+          "wins": 109,
+          "draws": 2,
+          "losses": 17,
+          "games": 128,
+          "win_rate": 0.8515625,
+          "mean_margin_diagnostic_only": 16.75
+        },
+        "initial": {
+          "wins": 114,
+          "draws": 5,
+          "losses": 9,
+          "games": 128,
+          "win_rate": 0.890625,
+          "mean_margin_diagnostic_only": 19.125
+        }
+      },
+      {
+        "id": 19,
+        "evaluated_step": 4075,
+        "random": {
+          "wins": 112,
+          "draws": 5,
+          "losses": 11,
+          "games": 128,
+          "win_rate": 0.875,
+          "mean_margin_diagnostic_only": 20.15625
+        },
+        "position": {
+          "wins": 106,
+          "draws": 4,
+          "losses": 18,
+          "games": 128,
+          "win_rate": 0.828125,
+          "mean_margin_diagnostic_only": 18.7421875
+        },
+        "initial": {
+          "wins": 124,
+          "draws": 1,
+          "losses": 3,
+          "games": 128,
+          "win_rate": 0.96875,
+          "mean_margin_diagnostic_only": 25.4375
+        }
+      }
+    ],
+    "aggregate": {
+      "random": {
+        "wins": 2383,
+        "draws": 33,
+        "losses": 144,
+        "games": 2560,
+        "win_rate": 0.930859375
+      },
+      "position": {
+        "wins": 2071,
+        "draws": 52,
+        "losses": 437,
+        "games": 2560,
+        "win_rate": 0.808984375
+      },
+      "initial": {
+        "wins": 2364,
+        "draws": 49,
+        "losses": 147,
+        "games": 2560,
+        "win_rate": 0.9234375
+      }
+    },
+    "measured_ids": [
+      12
+    ],
+    "schedule": "learner_every_step"
+  }
+}
