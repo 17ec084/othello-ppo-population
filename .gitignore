@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+runs/
+figures/
+*.pid
+*.log
+latest_run.txt
+training-pids.json
+latest_comparison.txt
+*.pt
+*.pt.gz
+STOP

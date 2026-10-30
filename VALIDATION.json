@@ -1,0 +1,28 @@
+{
+  "python_tests": {
+    "count": 44,
+    "result": "passed",
+    "command": "python -m unittest -v test_winrate test_ppo test_individual test_reward_comparison test_runtime"
+  },
+  "chart_regressions": {
+    "count": 5,
+    "result": "passed",
+    "command": "node test_individual_chart.cjs"
+  },
+  "portable_smoke": {
+    "initial_steps": 2,
+    "resumed_total_steps": 3,
+    "games": 24,
+    "device": "cpu",
+    "result": "passed"
+  },
+  "recorded_curve_redraw": {
+    "evaluation_snapshots": 4086,
+    "figures": 4,
+    "result": "passed"
+  },
+  "original_source_sha256_check": {
+    "files": 48,
+    "result": "passed"
+  }
+}
